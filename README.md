@@ -10,8 +10,9 @@
 
 # 📖 Introduction
 - Implement a React Website
-1. React Hook
-2. learn about components..
-3. c
+1. Use React hooks to update states.
+2. Made resposnable components based on various user inputs.
+3. Learning two-way-binding, composition.
+4. ...
 
 # 👀 Screenshots
